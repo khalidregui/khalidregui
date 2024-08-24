@@ -28,8 +28,13 @@ Connect with me for collaboration, inquiries, or to share insights!
 - **Email:** [kh.regui@gmail.com](mailto:kh.regui@gmail.com)
 - **LinkedIn:** [Khalid REGUI](https://www.linkedin.com/in/khalid-regui/)
 - **Website:** [regui.online](https://regui.online)
+- **YouTube:** [RGK](https://www.youtube.com/@regui-rgk)
 
 <p align="center">
+  <a href="https://www.youtube.com/@regui-rgk">
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Youtube_2018.gif"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/khalid-regui/">
     <img height="50" src="https://user-images.githubusercontent.com/89405673/216443606-c84ce978-1b47-40ee-af15-8a6a6e73f2c2.gif"/>
   </a>
