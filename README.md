@@ -40,7 +40,7 @@ Connect with me for collaboration, inquiries, or to share insights!
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/khalid_regui">
-    <img height="50" src="https://user-images.githubusercontent.com/89405673/216443253-197514d5-89fc-45b6-ad0f-77fe0a83bb69.gif"/>
+    <img height="50" src="https://cdn.dribbble.com/userupload/9051959/file/original-006a32a7d1299ce2651e2835f852d90b.gif"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/khalidregui1/">
