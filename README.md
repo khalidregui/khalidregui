@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:EEFF00,100:a82da8&text=Khalid%20REGUI&textBg=false&reversal=false&animation=twinkling&strokeWidth=0&descAlign=50&descAlignY=71&fontColor=FFFFFF" width="100%"/>
 </p>
 
-<h2 align="center">Modeling and Scientific Computing Engineering Student</h2>
-<h3 align="center">Data Science and AI Enthusiast</h3>
+<h2 align="center">Modeling and computer science Engineer graduate @EMI</h2>
+<h3 align="center">Consultant Data Scientist @Artefact</h3>
 
 ---
 
