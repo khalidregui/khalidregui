@@ -11,8 +11,6 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm Khalid Regui, currently studying Modeling and Scientific Computing at École Mohammedia d'Ingénieurs (EMI). 📚✨ I have a background in Mathematics and Computer Science from Faculté Pluridisciplinaire de Nador (FPN). 🎓💻
-
 I'm passionate about working on data science and AI projects, and I'm always eager to explore new technologies and challenges in these fields. 🌟📊🤖
 
 Feel free to explore my projects and connect with me!
